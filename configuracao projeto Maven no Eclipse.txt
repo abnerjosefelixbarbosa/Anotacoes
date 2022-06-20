@@ -1,0 +1,15 @@
+
+
+Clicar em projeto Maven.
+Escolher crirar simlpes projeto Maven.
+Clicar em Proximo.
+Digitar o group id, artific id e mudar para perspectiva war.
+Configurar o arquivo pom.xml.
+Configurar o JRE para Alternate JRE.
+Acessa o preferences do window, pesquisar por encodin e alterar para UTF-8.
+Clicar em propriedades do projeto e projeteFaces, para atualizar a versão java
+e JSF 2.2.
+Atualizar e força atualização do Maven nas propriedades do projeto.
+
+
+Mostra o caminho que eu mostro a direção.

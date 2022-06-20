@@ -1,0 +1,9 @@
+Entar no PROMP de comando;
+Acessar a pasta do produto;
+colocar comando: heroku login;
+colocar comando: heroku plugins:install java;
+colocar comando: mvn package;
+colocar comando: heroku deploy:war target/nome-do-arquivo.war -a projeto-heroku;
+colocar comando: heroku open -a projeto-heroku;
+
+
